@@ -1,0 +1,26 @@
+*{
+    padding:0px;
+    margin: 0px;
+}
+.bottom-bar{
+    width: 100vw;
+    height: 50px;
+    position:fixed;
+    bottom: 0;
+}
+.bottom-barmenu{
+    width: 100vw;
+    height: 50px;
+}
+.App-bar{
+    width: 100vw;
+    height: 50px;
+}
+.ant-carousel {
+    text-align: center;
+    height: 200px;
+    line-height: 160px;
+    background: #364d79;
+    overflow: hidden;
+  }
+  

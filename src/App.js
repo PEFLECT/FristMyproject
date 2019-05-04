@@ -1,4 +1,4 @@
-import React from 'react' 8.5K (gzipped: 3.4K)
+import React from 'react'
 //เรียกใช้ page ทั้งหมดของ react
 import {RouterContalner} from './route/router'
 class App extends React.Component{
@@ -7,8 +7,6 @@ class App extends React.Component{
     //การเเสดงผล
     return(
       <RouterContalner />
-      //<div>path</div>
-      // นำ Path ออก
     )
   }
 }
