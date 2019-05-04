@@ -5,7 +5,8 @@ import {AppbarSimple} from '../components/Appbar'
 import '../styles/main.css'
 import { TapbasSimple } from '../components/Taps';
 import { Imgslide } from '../components/ImageSlide';
-
+import {Buttommenu} from '../components/ButtomMenu';
+import {Cardslide} from '../components/Cardslide';
 
 
 class Home extends React.Component{
@@ -16,7 +17,8 @@ class Home extends React.Component{
         <AppbarSimple/>
          <TapbasSimple/>
          <Imgslide/>
-         
+         <Buttommenu />
+         <Cardslide/>
          <BottomNavigationSimple />
       </div>
     )

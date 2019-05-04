@@ -76,7 +76,7 @@ const {classes} = props
 
     return(
 
-        <AppBar position={'fixed'} className={'App-bar'} style={{backgroundColor: '#a4b0be'}}>
+        <AppBar position={'fixed'} className={'App-bar'} style={{backgroundColor: '#2d3436'}}>
             <Toolbar>
                 <Button variant={'text'} style={{color:'#ffffff'}}>
                     Male

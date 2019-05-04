@@ -10,7 +10,7 @@ return(
     <BottomNavigation
     className={'bottom-bar'}    
     showLabels
-    style={{backgroundColor : '#747d8c'}}
+    style={{backgroundColor : '#2d3436'}}
     >
         <BottomNavigationAction style={{color:'#ffffff'}} label={'Libary'} icon={<img width={24} height={24} src={process.env.PUBLIC_URL + '/assets/icons/sj.png'}/>}/>
         <BottomNavigationAction style={{color:'#ffffff'}} label={'Home'} icon={<img width={24} height={24} src={process.env.PUBLIC_URL+'/assets/icons/sc.png'}/>}/>
